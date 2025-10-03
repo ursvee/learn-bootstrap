@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <title>Columns</title>
+  </head>
+  <style>
+    .row {
+      margin-bottom: 1.5rem;
+    }
+  </style>
+  <body>
+    <div class="container">
+      <h4 class="header">Columns</h4>
+      <div class="row">
+        <div class="box col-auto bg-info">content-fit</div>
+        <div class="box col-8 bg-primary">col = 8</div>
+        <div class="box col bg-secondary">col- (12 minus col)</div>
+      </div>
+      <h4 class="header">Responsive Columns</h4>
+      <div class="row">
+        <div class="box col-sm-12 col-md-6 col-lg-3 bg-primary">
+          sm >= 12 | md >= 6 | lg >=3
+        </div>
+      </div>
+      <div class="row">
+        <div class="box col-sm-12 col-md-6 col-lg-4 bg-info">
+          sm >= 12 | md >= 6 | lg >=4
+        </div>
+        <div class="box col-sm-12 col-md-6 col-lg-4 bg-primary">
+          sm >= 12 | md >= 6 | lg >=4
+        </div>
+        <div class="box col-sm-12 col-md-12 col-lg-4 bg-secondary">
+          sm >= 12 | md >= 6 | lg >=4
+        </div>
+      </div>
+    </div>
+    <div class="footer">Happy Coding!</div>
+  </body>
+</html>

@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.header, .footer {
+  color: #6c757d;
+  text-align: center;
+  margin: 1.5rem 0;
+}
+.footer {
+  font-weight: bold;
+}
+.box {
+  color: #fff;
+  min-height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
