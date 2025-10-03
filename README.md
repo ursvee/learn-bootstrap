@@ -8,7 +8,8 @@ Recap Bootstrap and to guide others! Hope you get something useful from this rep
 
 ## Reused files
 
-bootstrap.min.css & boostrap.bundle.min.js
+* bootstrap.min.css
+* boostrap.bundle.min.js
 
 ## Clone this repo
 
