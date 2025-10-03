@@ -19,7 +19,7 @@ git clone https://github.com/ursvee/learn-bootstrap.git
 
 ## References
 
-[Bootstrap 5 Crash Course](https://youtu.be/Jyvffr3aCp0?si=ytxFHpv5EDB4wLha) by [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+[Bootstrap 5 Crash Course](https://www.youtube.com/watch?v=Jyvffr3aCp0&t=401s) by [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
 
 ### Note
 
